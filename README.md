@@ -9,6 +9,6 @@ tokenにopenAI社のAPIkeyを入力し、filepathに音声ファイルを指定�
 filepathの"\\"を置き換えてください。これはc++のせいです。(直すのめんどくさい)
 ## 対応バージョン
 ue4.27
-##その他
+## その他
 ソースコードの90%以上はGPT4を利用して書いています。AIが嫌いな方は避けてください。<br>
 質問等があればhttps://twitter.com/aoharuisgod まで。
